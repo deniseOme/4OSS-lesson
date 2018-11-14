@@ -268,7 +268,7 @@ Main points for this section:
 ## What if your software is an analysis in a Notebook?
 
 ### Definition
-Open source web application that can be used to create and share documents, which contain narrative alongside the code. It supports interactive exploratory data analysis. 
+Open source web application that can be used to create and share documents. Notebooks contain narrative alongside the code and can support interactive exploratory data analysis. 
 
 ### Why (benefits/advantages)
 - easy way to combine narrative, code, visualisation in one place
