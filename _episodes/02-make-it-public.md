@@ -268,24 +268,17 @@ Main points for this section:
 ## What if your software is an analysis in a Notebook?
 
 ### Definition
-OS web app to create and share documents. 
-It supports interactive data science and scientific computing.
-It can contain:
--- code
--- equations
--- vis
--- narrative text
+Open source web application that can be used to create and share documents, which contain narrative alongside the code. It supports interactive exploratory data analysis. 
 
-### Why
-- 
-
-### Advantages
+### Why (benefits/advantages)
+- easy way to combine narrative, code, visualisation in one place
+- easy to share your analysis with others
+- rendered in GitHub
 - both human and machine readable
-- easy to use
 - fully documented
 - open source
-- allow testing of your code from early stages of a workflow 
-- can be integrated with other platforms such as ArcGIS
+- allow testing of your code from early stages of a workflow (? is it unique to notebooks?)
+- can be integrated with other platforms such as ArcGIS (? is it unique to notebooks?)
 - can be rendered in a web browser
 
 ### Languages
