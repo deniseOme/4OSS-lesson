@@ -267,3 +267,35 @@ Main points for this section:
 
 ## What if your software is an analysis in a Notebook?
 
+# Definition
+OS web app to create and share documents. 
+It supports interactive data science and scientific computing.
+It can contain:
+-- code
+-- equations
+-- vis
+-- narrative text
+
+# Why
+- 
+
+# Advantages
+- both human and machine readable
+- easy to use
+- fully documented
+- open source
+- allow testing of your code from early stages of a workflow 
+- can be integrated with other platforms such as ArcGIS
+- can be rendered in a web browser
+
+# Languages
+- All
+
+# Use case examples
+- data cleaning / transformation, numerical simulation, statistical modeling, data vis, ML, and much more
+- e.g. http://nbviewer.jupyter.org/github/cschin/Write_A_Genome_Assembler_With_IPython/blob/master/Write_An_Assembler.ipynb
+
+
+
+
+
